@@ -1,0 +1,45 @@
+body{
+    width: 1110px;
+    height: 600ox;
+    margin: 0;
+    background-image: url(./download.png);
+}
+
+
+.click{
+    
+    display: flex;
+    
+    width: 500px;
+    height: 200px;
+    margin-left: 50% ;
+    border-radius: 50px;
+    margin-top: -300px;
+    box-shadow: 1px 0px 20px 20px;
+    padding-top: 100px;
+    background-color: darkslategrey;
+}
+.btn1{
+    margin-left: 80px;
+    padding: 30px;
+    border-radius: 50px;
+    font-size: 20px;
+}
+.btn2{
+    margin-left: 110px;
+    padding: 30px;
+    font-size: 20px;
+    border-radius: 50px;
+}
+.nais{
+    margin-left: 10px;
+    font-size: 150px;
+    color: black;
+}
+.chislo{
+    margin-left: 150px;
+    width: 250px;
+    border-radius: 50px;
+    box-shadow: 1px 0px 20px 20px;
+    background-color: aliceblue;
+}
